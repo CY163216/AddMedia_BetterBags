@@ -1,0 +1,10 @@
+## Title: AddMedia_BetterBags
+## Name: AddMedia: BetterBags
+## Notes: Adding some BetterBags
+## Author: cygnus404
+## Version: 10.2.7-2
+## Interface: 100207
+## Dependencies: AddMedia, BetterBags
+## IconTexture: Interface\AddOns\AddMedia\media\icons\addmedia_icon_bw.tga
+
+betterbags.lua
